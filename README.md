@@ -7,4 +7,4 @@ Generate a random password based on user-selected criteria.
 https://tessaustin.github.io/password-generator/
 
 ## Screenshot
-![img](assets\img\demo.png | width = 200)
+![img](assets\img\demo.png =250x250)
