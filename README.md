@@ -5,7 +5,7 @@ Generate a random password based on user-selected criteria.
 
 
 ## Screenshot
-![img](./assets/images/demo.png)
+![img](assets\img\demo.png)
 
 ## Website
 
