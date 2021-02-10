@@ -9,4 +9,4 @@ Generate a random password based on user-selected criteria.
 
 ## Website
 
-https://tessaustin.github.io/password-gen/
+https://tessaustin.github.io/password-generator/
